@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="zaicevdmitry.com.ElementOfGrammarTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2020-04-03T12:11:33" hostname="DESKTOP-FF23U9G" time="0.017">
+  <properties/>
+  <testcase name="isNumberForDigit" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.002"/>
+  <testcase name="isOperationF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isOperationT" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isCallFilterCall" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isExpressionElement" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isConstantExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isExpressionEmpty" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isExpressionF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isNumberForEmptyExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isBinaryExpressionEmpty" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isCallChainF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.001"/>
+  <testcase name="isCallMapCall" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isExpressionBEx" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isExpressionCEx" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isConstantEmptyExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isDigitF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isDigitT" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.001"/>
+  <testcase name="isMapCallT" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isCallEmpty" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isMapCallWithExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isFilterCallWithEmptyExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isConstantF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.001"/>
+  <testcase name="isMapCallWithEmptyExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isCallChainNotCall" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.001"/>
+  <testcase name="isCallChainCall" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isFilterCallEmptyExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isDigitForEmptyExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isNumberF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isNumberT" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.001"/>
+  <testcase name="isMapCallEmptyExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isConstantNegativeExpression" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isBinaryExpressionF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.001"/>
+  <testcase name="isBinaryExpressionT" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isFilterCallT" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isCallF" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isDigit" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <testcase name="isTrue2" classname="zaicevdmitry.com.ElementOfGrammarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
